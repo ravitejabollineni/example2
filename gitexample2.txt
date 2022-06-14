@@ -1,0 +1,9 @@
+1)Create a new folder and open in cmd
+2)git init
+3)Add new files 
+4)git status => to check the status
+5)git add .  => to add files to stage
+6)git commit -m "" => to commit the files into local repository
+7) Create new repo in GITHUB
+8)Add Origin -- git push --set-upstream origin master
+7)git push  => to push file to reposotory
